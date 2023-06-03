@@ -10,3 +10,6 @@ Currently in school. Working on improvement myself. Highly interessted in Ethica
 -CCNA
 -
 -
+
+
+*[GIF Source](https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized-large.gif)*
