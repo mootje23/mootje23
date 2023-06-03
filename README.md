@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p>" width="100"/>
+  <img src="https://giphy.com/embed/YQitE4YNQNahy"
 </div>
 <!--
 **mootje23/mootje23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
