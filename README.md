@@ -6,7 +6,7 @@ Currently in school. Working on improving myself. Highly interessted in Ethical 
 
 ## Certificates
 -2023
-NSE1
+-NSE1
 CCNA
 
 
