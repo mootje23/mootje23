@@ -4,6 +4,5 @@
 Currently in school. Working on improving myself. Highly interessted in Ethical hacking and Python code. 
 
 ## Certificates
-NSE1, CCNA
-
+NSE1, 
 
